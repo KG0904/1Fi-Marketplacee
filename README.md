@@ -3,6 +3,9 @@
 > A fintech mobile web app that lets users shop using their mutual fund investments as collateral for **No-Cost EMIs** — no credit score required, no interest.
 
 ---
+<img width="511" height="868" alt="WhatsApp Image 2026-09-07 at 4 47 40 PM" src="https://github.com/user-attachments/assets/a394410e-43ef-44ab-b832-1c30b2c1a169" />
+<img width="511" height="868" alt="WhatsApp Image 2026-09-07 at 4 47 40 PM" src="https://github.com/user-attachments/assets/71fa0d84-dab9-4094-bdfe-a6958dd37b73" />
+
 
 ## 📱 What This Is
 
