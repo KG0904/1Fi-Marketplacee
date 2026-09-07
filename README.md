@@ -4,7 +4,8 @@
 
 ---
 <img width="511" height="868" alt="WhatsApp Image 2026-09-07 at 4 47 40 PM" src="https://github.com/user-attachments/assets/a394410e-43ef-44ab-b832-1c30b2c1a169" />
-<img width="511" height="868" alt="WhatsApp Image 2026-09-07 at 4 47 40 PM" src="https://github.com/user-attachments/assets/71fa0d84-dab9-4094-bdfe-a6958dd37b73" />
+<img width="1600" height="733" alt="image" src="https://github.com/user-attachments/assets/2ff7d10f-f34c-43de-84ce-58f3f85b1e1b" />
+
 
 
 ## 📱 What This Is
